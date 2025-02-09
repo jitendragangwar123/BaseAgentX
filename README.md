@@ -70,4 +70,4 @@ Contributions are welcome! Please submit a pull request or open an issue for dis
 This project is licensed under the MIT License. 📄
 
 ## 📩 Contact
-For inquiries, reach out via email or join our community on Discord and Twitter. 🌎
+For inquiries, reach out via email `rajeebk.malik@gmail.com` or `jitendragangwar2498@gmail.com`. 🌎
