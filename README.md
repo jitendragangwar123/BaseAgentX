@@ -4,6 +4,9 @@
 BaseAgentX is an autonomous AI-powered agent built on EigenLayer AVS, leveraging the Coinbase Agent Kit and OnchainKit. The agent specializes in carbon credit tokenization, verification, and optimization to enhance sustainability efforts in the decentralized finance ecosystem.
 BaseAgentX integrates AI-driven strategies with on-chain carbon credit trading and verification using KlimaDAO pools and KLIMA tokens. 🌱💰
 
+![photo_6145192663012459545_y](https://github.com/user-attachments/assets/a0138686-5d10-4de1-86a2-5e26a9b5a80f)
+
+
 ## 🔥 Features
 - 🌿 **Carbon Credit Marketplace**: Facilitates trading, verification, and optimization of carbon credits using KlimaDAO pools and KLIMA tokens.
 - 🤖 **AI-Powered Validation**: Automates carbon credit validation using advanced AI strategies.
